@@ -11,7 +11,7 @@ export const Bio = {
     "Web PenTester",
   ],
   description:
-    "I am a First Year Master's student specializing in Cyber Security and Digital forensics, with hands-on experience and proficiency in various areas. My skills include expertise in web pentesting, thorough vulnerability analysis, adeptness in OSINT, and proficiency in Python programming.I have applied these skills during my tenure as a Cyber Security Intern at Code Grills and through my contributions as an author at Cyber Delta. Recently, I have done a malware analysis project, further honing my capabilities. Committed to continuous learning and professional growth, I am eager to leverage my skills to contribute meaningfully to the cybersecurity domain."
+    "I am a First Year Master's student specializing in Cyber Security and Digital forensics, with hands-on experience and proficiency in various areas. My skills include expertise in web pentesting, thorough vulnerability analysis, adeptness in OSINT, and proficiency in Python programming.I have applied these skills during my tenure as a Cyber Security Intern at Code Grills and through my contributions as an author at Cyber Delta. Recently, I have done a malware analysis project, further honing my capabilities. Committed to continuous learning and professional growth, I am eager to leverage my skills to contribute meaningfully to the cybersecurity domain.",
   github: "https://github.com/SriramRayala",
   resume:"https://livealbany-my.sharepoint.com/:b:/g/personal/srayala_albany_edu/EcFZgWW50h9Psfmc1FdjSjIBRNU85EdMOSN2P5vsERiNWw?e=JZ5x84",
   linkedin: "https://www.linkedin.com/in/sri-ram-688732209/",
