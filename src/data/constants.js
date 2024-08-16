@@ -6,10 +6,10 @@ import passwordImage from "../images/password.png";
 export const Bio = {
   name: "Sriram Raju Maddirala",
   roles: [
-    "Cybersecurity Analyst",
-    "Ethical Hacker",
-    "Pen Tester",
-    "Programmer",
+    "Cybersecurity Student",
+    "Blue Teamer",
+    "Web Pentester",
+    "OSINT Analyst",
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
