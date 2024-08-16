@@ -18,8 +18,7 @@ I have applied these skills during my tenure as a Cyber Security Intern at Code 
   resume:"https://livealbany-my.sharepoint.com/:b:/g/personal/srayala_albany_edu/EcFZgWW50h9Psfmc1FdjSjIBRNU85EdMOSN2P5vsERiNWw?e=JZ5x84",
   linkedin: "https://www.linkedin.com/in/sri-ram-688732209/",
   twitter: "https://x.com/Sr1081729?t=S4sobs2ReOW4brDUEaCF5w&s=08",
-  insta: "https://instagram.com/shalemrajumaddirala?igshid=OGQ5ZDc2ODk2ZA== ",
-  facebook: "https://www.facebook.com/shalem.madirala?mibextid=ZbWKwL",
+  insta: "https://www.instagram.com/sr71garuda/",
 };
 
 export const skills = [
