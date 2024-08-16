@@ -11,7 +11,9 @@ export const Bio = {
     "Web PenTester",
   ],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "I am a First Year Master's student specializing in Cyber Security and Digital forensics, with hands-on experience and proficiency in various areas. My skills include expertise in web pentesting, thorough vulnerability analysis, adeptness in OSINT, and proficiency in Python programming. 
+
+I have applied these skills during my tenure as a Cyber Security Intern at Code Grills and through my contributions as an author at Cyber Delta. Recently, I have done a malware analysis project, further honing my capabilities. Committed to continuous learning and professional growth, I am eager to leverage my skills to contribute meaningfully to the cybersecurity domain..",
   github: "https://github.com/SriramRayala",
   resume:"https://drive.google.com/file/d/12e1cjf9O0wJJuOTzg69E1oBhzqM_PCvd/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/shalemrajumaddirala/",
