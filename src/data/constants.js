@@ -4,7 +4,7 @@ import bankImage from "../images/demobank.png";
 import passwordImage from "../images/password.png";
 
 export const Bio = {
-  name: "Sriram Rayal[
+  name: "Sriram Rayala [
     "Cybersecurity Student",
     "Blue Teamer",
     "Web PenTester",
