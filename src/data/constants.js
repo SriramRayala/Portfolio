@@ -5,7 +5,7 @@ import passwordImage from "../images/password.png";
 
 export const Bio = {
   name: "Sriram Rayala",
-  roles; [
+  roles: [
     "Cybersecurity Student",
     "Blue Teamer",
     "Web PenTester",
