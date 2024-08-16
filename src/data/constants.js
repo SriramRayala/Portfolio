@@ -17,7 +17,7 @@ I have applied these skills during my tenure as a Cyber Security Intern at Code 
   github: "https://github.com/SriramRayala",
   resume:"https://livealbany-my.sharepoint.com/:b:/g/personal/srayala_albany_edu/EcFZgWW50h9Psfmc1FdjSjIBRNU85EdMOSN2P5vsERiNWw?e=JZ5x84",
   linkedin: "https://www.linkedin.com/in/sri-ram-688732209/",
-  twitter: "https://www.linkedin.com/safety/go?url=https%3A%2F%2Fx.com%2FSr1081729%3Ft%3DS4sobs2ReOW4brDUEaCF5w%26s%3D08&trk=flagship-messaging-web&messageThreadUrn=urn%3Ali%3AmessagingThread%3A2-YTFjMDhmYWQtYjQ1Yi00NzVkLTkxYTQtYjdiNTY5M2NmNzZmXzAxMA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3Bapdxwuu3QVi6hViEN1%2Fc6Q%3D%3D",
+  twitter: "https://x.com/Sr1081729?t=S4sobs2ReOW4brDUEaCF5w&s=08",
   insta: "https://instagram.com/shalemrajumaddirala?igshid=OGQ5ZDc2ODk2ZA== ",
   facebook: "https://www.facebook.com/shalem.madirala?mibextid=ZbWKwL",
 };
