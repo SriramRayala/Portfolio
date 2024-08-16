@@ -12,13 +12,12 @@ export const Bio = {
     "OSINT Analyst",
   ],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-  github: "https://github.com/Shalem2020",
-  resume:"https://drive.google.com/file/d/12e1cjf9O0wJJuOTzg69E1oBhzqM_PCvd/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/shalemrajumaddirala/",
-  twitter: "https://twitter.com/ShalemRaju8247",
-  insta: "https://instagram.com/shalemrajumaddirala?igshid=OGQ5ZDc2ODk2ZA== ",
-  facebook: "https://www.facebook.com/shalem.madirala?mibextid=ZbWKwL",
+    "I am a First Year Master's student specializing in Cyber Security and Digital forensics, with hands-on experience and proficiency in various areas. My skills include expertise in web pentesting, thorough vulnerability analysis, adeptness in OSINT, and proficiency in Python programming.I have applied these skills during my tenure as a Cyber Security Intern at Code Grills and through my contributions as an author at Cyber Delta. Recently, I have done a malware analysis project, further honing my capabilities. Committed to continuous learning and professional growth, I am eager to leverage my skills to contribute meaningfully to the cybersecurity domain.",
+  github: "https://github.com/SriramRayala",
+  resume:"https://livealbany-my.sharepoint.com/:b:/g/personal/srayala_albany_edu/EcFZgWW50h9Psfmc1FdjSjIBRNU85EdMOSN2P5vsERiNWw?e=7YfaB1",
+  linkedin: "https://www.linkedin.com/in/sri-ram-688732209/",
+  twitter: "https://x.com/Sr1081729?t=S4sobs2ReOW4brDUEaCF5w&s=08",
+  insta: "https://www.instagram.com/sr71garuda/ ",
 };
 
 export const skills = [
