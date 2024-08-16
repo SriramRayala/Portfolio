@@ -71,7 +71,7 @@ export const skills = [
       {
         name: "Snort",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg",
+          "https://www.google.com/imgres?q=snort%20tool%20logo&imgurl=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2699%2FPNG%2F512%2Fsnort_logo_icon_167981.png&imgrefurl=https%3A%2F%2Ficon-icons.com%2Ficon%2Fsnort-logo%2F167981&docid=R6JLaoi4U9HWoM&tbnid=Uqiu8-CE0D7N4M&vet=12ahUKEwik0t3UvvqHAxViEFkFHXYOA88QM3oECGQQAA..i&w=512&h=256&hcb=2&ved=2ahUKEwik0t3UvvqHAxViEFkFHXYOA88QM3oECGQQAA",
       },
       {
         name: "Wireshark",
