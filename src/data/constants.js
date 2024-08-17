@@ -225,55 +225,41 @@ export const projects = [
       "Owasp",
     ],
     category: "Cybersecurity",
-    github: "https://github.com/Shalem2020/SCAN",
+    github: "https://github.com/SriramRayala/scan",
   },
   
 
   {
     id: 2,
-    title: "Slowloris Detection and Prevention",
+    title: "Dual Lock System",
     description:
-      "Developed a project to detect and prevent slowloris attacks using the IsolationForest algorithm,resulting the identification and blocking of malicious IP addresses",
+      "In our project, the Dual Lock System, we've revolutionized door security by introducing a sophisticated blend of Face Recognition Technology and Voice-activated One-Time Password generation.",
     image:dosImage,
     tags: [
-      "Linux",
+      "Html",
       "Python",
-      "Owasp",
-      "Anaconda",
-      "Wireshark",
+      "Machine Learning",
     ],
-    category: "Cybersecurity",
-    github: "https://github.com/Shalem2020/DOS-Prevention",
+    category: "AI",
+    github: "https://github.com/SriramRayala/Dual-Lock",
 
   },
   {
     id: 3,
-    title: "Demo Bank Website",
+    title: "Malware Analysis Home-Lab for Analyzing Trozan",
     description:
-      "Developed a demo bank  Web app to learn javascript and react framework ",
+      "In this project, we established an advanced cybersecurity infrastructure focused on malware analysis and threat detection. Central to our approach is the creation of an isolated home-lab environment, meticulously designed to ensure security and efficiency. ",
     image:bankImage,
     tags: [
-      "React",
-      "Javascript",
-      "Tailwind CSS",
-      "Vercel",
+      "Flare Vm",
+      "Ghidra",
+      "Virus Total",
+      "Python",
     ],
-    category: "Web App",
-    github: "https://github.com/Shalem2020/Demobank",
+    category: "Malware Analysis",
+    github: "https://github.com/SriramRayala/Malware-Analysis-Homelab",
 
 
   },
-  {
-    id: 4,
-    title: "Password Generator",
-    description:
-      "Developed a simple website using html and css to genarate password and also find the strength of password.",
-    image:passwordImage,
-    tags: [
-      "HTML",
-      "CSS",
-    ],
-    category: "Web App",
-    github: "https://github.com/Shalem2020/Password-Generator",
-  },
+ 
 ];
